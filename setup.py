@@ -22,7 +22,7 @@ setuptools.setup(
     ],
     install_requires=['tensorflow==1.15',
                       'librosa',
-                      'numpy==1.8.2',
+                      'numpy==1.16.0',
                       'moviepy',
                       'Pillow==6.2.1',
                       'tqdm',
