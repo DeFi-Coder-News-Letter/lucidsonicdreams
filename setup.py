@@ -24,14 +24,14 @@ setuptools.setup(
                       'librosa',
                       'numpy',
                       'moviepy',
-                      'Pillow',
+                      'Pillow==6.2.1',
                       'tqdm',
-                      'scipy',
+                      'scipy==1.3.3',
                       'scikit-image',
                       'pygit2',
                       'gdown', 
                       'mega.py',
-                      'requests',
+                      'requests==2.22.0',
                       'pandas',
                       'SoundFile']
 )
