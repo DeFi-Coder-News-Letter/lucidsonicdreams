@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     python_requires='>=3.7',
     url="https://github.com/DeFi-Coder-News-Letter/lucid-sonic-dreams",
-    download_url="https://github.com/DeFi-Coder-News-Letter/lucid-sonic-dreams/blob/main/lucid-sonic-dreams-v_04.tar.gz",
+    download_url="https://github.com/DeFi-Coder-News-Letter/lucid-sonic-dreams/blob/main/lucid-sonic-dreams.tar.gz",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
