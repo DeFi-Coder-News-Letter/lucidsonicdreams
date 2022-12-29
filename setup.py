@@ -11,7 +11,7 @@ setuptools.setup(
     description="Syncs GAN-generated visuals to music",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    python_requires='>=3.7',
+    python_requires='>=3.6',
     url="https://github.com/DeFi-Coder-News-Letter/lucid-sonic-dreams",
     download_url="https://github.com/DeFi-Coder-News-Letter/lucid-sonic-dreams/blob/main/lucid-sonic-dreams.tar.gz",
     packages=setuptools.find_packages(),
