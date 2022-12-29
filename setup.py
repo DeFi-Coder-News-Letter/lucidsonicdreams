@@ -11,6 +11,7 @@ setuptools.setup(
     description="Syncs GAN-generated visuals to music",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    python_requires='>=3.6',
     url="https://github.com/mikaelalafriz/lucid-sonic-dreams",
     download_url="https://github.com/mikaelalafriz/lucid-sonic-dreams/archive/v_04.tar.gz",
     packages=setuptools.find_packages(),
