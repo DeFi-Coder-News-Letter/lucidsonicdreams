@@ -23,7 +23,7 @@ setuptools.setup(
     install_requires=['tensorflow==1.15',
                       'librosa==0.8.1',
                       'numpy==1.16.0',
-                      'moviepy==0.1.0',
+                      'moviepy',
                       'Pillow==6.2.1',
                       'tqdm',
                       'scipy==1.1.0',
